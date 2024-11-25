@@ -34,7 +34,7 @@ const MainContent = () => {
             {/* Contact Links */}
             <div className="flex gap-4 items-center">
               <a
-                href="anmolsharma20012003@gmail.com"
+                href="mailto:anmolsharma20012003@gmail.com"
                 className="text-gray-600 hover:text-gray-900"
               >
                 <i className="bi bi-envelope text-xl"></i>
