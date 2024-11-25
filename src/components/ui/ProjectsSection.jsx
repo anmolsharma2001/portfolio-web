@@ -310,7 +310,7 @@ const ProjectSection = () => {
     {
       id: 1,
       name: "React Chat App",
-      image: "src/images/1000081485 (1).jpg",
+      image: "images/1000081485 (1).jpg",
       shortDescription: "Developed a full-featured chat application using React for the front end and Firebase for backend services.",
       functions: [
         "Implemented real-time messaging, user authentication, and Firestore database for storing chat data.",
@@ -330,7 +330,7 @@ const ProjectSection = () => {
     {
       id: 2,
       name: "Email Scraper Chrome Extension",
-      image: "src/images/Screenshot (260).png",
+      image: "images/Screenshot (260).png",
       shortDescription: "A Chrome extension to scrape emails from web pages.",
       functions: [
         "Developed a Chrome extension using JavaScript, HTML/CSS, and Manifest V3 to scrape email addresses from web pages.",
@@ -349,7 +349,7 @@ const ProjectSection = () => {
     {
       id: 3,
       name: "Text Summarizer",
-      image: "src/images/1000081488 (1).jpg",
+      image: "images/1000081488 (1).jpg",
       shortDescription: "Developed a tool for condensing texts into concise summaries, enhancing accessibility",
       functions: [
         "Designed an intuitive front-end interface.",

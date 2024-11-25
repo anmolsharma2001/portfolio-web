@@ -11,7 +11,7 @@ const MainContent = () => {
           {/* Profile Header */}
           <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
             <img
-              src="src/images/IMG-20240416-WA0026.jpg"
+              src="images\IMG-20240416-WA0026.jpg"
               alt="Profile Picture"
               className="w-24 h-24 rounded-full object-cover border-4 border-white shadow"
             />
@@ -34,7 +34,7 @@ const MainContent = () => {
             {/* Contact Links */}
             <div className="flex gap-4 items-center">
               <a
-                href="anmolsharma20012003@gmail.com"
+                href="mailto:anmolsharma20012003@gmail.com"
                 className="text-gray-600 hover:text-gray-900"
               >
                 <i className="bi bi-envelope text-xl"></i>
@@ -62,7 +62,7 @@ const MainContent = () => {
               </a> */}
 
               <a
-                href="src/resume/Anmol_Sharma_resume (3).pdf"
+                href="resume\Anmol_Sharma_resume (3).pdf"
                 download="Anmol_Sharma_Resume.pdf"
                 className="bg-violet-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-violet-700 transition-colors flex items-center gap-2"
                 >

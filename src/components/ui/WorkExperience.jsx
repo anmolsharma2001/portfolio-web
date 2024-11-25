@@ -86,7 +86,7 @@ const WorkExperience = () => {
           {/* Company and Intern details */}
           <div className="flex items-center mb-4">
             <div className="w-12 h-12 bg-gray-200 rounded flex items-center justify-center mr-4 border-2">
-              <img src="src/images/Screenshot (269).png" alt="" />
+              <img src="images\Screenshot (269).png" alt="" />
             </div>
             <div className="border-l-2 border-gray-200 pl-4">
               <h3 className="text-l font-semibold">Alphawizz Technologies Pvt. Ltd.</h3>

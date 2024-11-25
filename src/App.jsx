@@ -1341,9 +1341,14 @@ const App = () => {
             <a href="https://www.linkedin.com/in/anmol-sharma-0b78a8250/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
               <i className="bi bi-linkedin text-xl"></i>
             </a>
-            <a href="anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
+            {/* <a href="anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
               <i className="bi bi-envelope text-xl"></i>
-            </a>
+            </a> */}
+
+                  <a href="mailto:anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
+                   <i className="bi bi-envelope text-xl"></i>
+                  </a>
+
           </div>
         </div>
       </div>
