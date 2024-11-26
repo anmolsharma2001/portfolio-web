@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import IMG-20240416-WA0026.jpg from './images/IMG-20240416-WA0026.jpg'
+import IMG-20240416-WA0026.jpg from './IMG-20240416-WA0026.jpg'
 
 const MainContent = () => {
   return (
