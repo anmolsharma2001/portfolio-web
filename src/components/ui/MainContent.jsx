@@ -11,7 +11,7 @@ const MainContent = () => {
           {/* Profile Header */}
           <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
             <img
-              src="images\IMG-20240416-WA0026.jpg"
+              src="/images/IMG-20240416-WA0026.jpg"
               alt="Profile Picture"
               className="w-24 h-24 rounded-full object-cover border-4 border-white shadow"
             />
