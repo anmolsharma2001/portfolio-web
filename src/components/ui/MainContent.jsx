@@ -79,7 +79,7 @@ const MainContent = () => {
               Profile
             </h2> */}
             <p className="text-gray-600">
-            Hey there! I am a fresher and aspiring software engineer, who relentlessly learns new tech daily. Thrives on connecting with tech enthusiasts, tackling real-world problems, and propelling enduring success.
+            I'm a dedicated frontend developer skilled in building modern, responsive, and user-friendly web applications. I enjoy transforming complex challenges into seamless, engaging, and impactful digital experiences.
             </p>
           </div>
         </div>
