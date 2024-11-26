@@ -67,11 +67,11 @@ const WorkExperience = () => {
   const [isExpanded, setIsExpanded] = useState(false); // State to toggle details
 
   const skills = [
-    { name: "HTML", icon: "bi-code-slash", color: "blue-100 text-blue-800" },
-    { name: "CSS", icon: "bi-hurricane", color: "pink-100 text-pink-800" },
-    { name: "Bootstrap", icon: "bi-wind", color: "blue-100 text-blue-800" },
-    { name: "Javascript", icon: "bi-braces", color: "yellow-200 text-sky-800" },
-    { name: "Figma", icon: "bi-wind", color: "blue-100 text-blue-800" },
+    { name: "HTML",  color: "blue-100 text-blue-800" },
+    { name: "CSS",  color: "pink-100 text-pink-800" },
+    { name: "Bootstrap",  color: "blue-100 text-blue-800" },
+    { name: "Javascript",  color: "yellow-200 text-sky-800" },
+    { name: "Figma",  color: "blue-100 text-blue-800" },
   ];
 
   return (

@@ -4,7 +4,7 @@ const Skills = () => {
   const skills = [
     { name: "C/C++", color: "blue-100 text-blue-800" },
     { name: "Java",  color: "pink-100 text-pink-800" },
-    { name: "HTML5", color: "sky-100 text-sky-800" },
+    { name: "HTML5", color: "orange-100 text-sky-800" },
     { name: "CSS3", color: "blue-100 text-blue-800" },
     { name: "JavaScript", color: "yellow-100 text-yellow-800" },
     { name: "ReactJs", color: "pink-100 text-pink-800" },
@@ -13,7 +13,7 @@ const Skills = () => {
     { name: "SQL",  color: "pink-100 text-pink-800" },
     { name: "UI/UX", color: "blue-100 text-blue-800" },
     { name: "Figma",  color: "pink-100 text-pink-800" },
-    { name: "Firebase", color: "sky-100 text-sky-800" },
+    { name: "Firebase", color: "orange-100 text-sky-800" },
     { name: "Postman",  color: "blue-100 text-blue-800" },
     { name: "Git",  color: "yellow-100 text-yellow-800" },
     // { name: "", icon: "bi-diagram-2", color: "pink-100 text-pink-800" },

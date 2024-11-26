@@ -1313,7 +1313,6 @@ const App = () => {
 
 
 
-
             {/* Projects */}
             <div>
               <ProjectSection />
@@ -1341,7 +1340,6 @@ const App = () => {
             <a href="https://www.linkedin.com/in/anmol-sharma-0b78a8250/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
               <i className="bi bi-linkedin text-xl"></i>
             </a>
-<<<<<<< HEAD
             {/* <a href="anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
               <i className="bi bi-envelope text-xl"></i>
             </a> */}
@@ -1350,14 +1348,14 @@ const App = () => {
                    <i className="bi bi-envelope text-xl"></i>
                   </a>
 
-=======
+
 {/*             <a href="anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
               <i className="bi bi-envelope text-xl"></i>
             </a> */}
                   <a href="mailto:anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
                    <i className="bi bi-envelope text-xl"></i>
                   </a>
->>>>>>> eb9b28f58c0f6d28c7f46c4c554f42b0b4c5f0d9
+
           </div>
         </div>
       </div>

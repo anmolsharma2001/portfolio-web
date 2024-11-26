@@ -367,7 +367,7 @@ const ProjectSection = () => {
     {
       id: 4,
       name: "Luko Dog Food website Design",
-      image: "src/images/luko-catalog.webp",
+      image: "images/luko-catalog.webp",
       shortDescription: "Leveraged this project to showcase design skills while learning new tools and client collaboration as a freelancer.",
       functions: [
         "Designed UI for an e-commerce dog food website using Figma",
