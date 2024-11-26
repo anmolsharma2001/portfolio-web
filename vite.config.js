@@ -8,4 +8,6 @@ export default defineConfig({
       '@': '/src',
     },
   },
+  base: '/portfolio-web/', // Add this line, replace 'portfolio-web' with your repository name
 });
+
