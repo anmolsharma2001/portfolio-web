@@ -1352,7 +1352,7 @@ const App = () => {
 {/*             <a href="anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
               <i className="bi bi-envelope text-xl"></i>
             </a> */}
-                  {/* <a href="mailto:anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
+                  <a href="mailto:anmolsharma20012003@gmail.com" className="text-gray-400 hover:text-white">
                    <i className="bi bi-envelope text-xl"></i>
                   </a> */}
 
