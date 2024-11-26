@@ -78,9 +78,13 @@ const MainContent = () => {
             {/* <h2 className="text-xl font-semibold text-gray-900 mb-4">
               Profile
             </h2> */}
-            <p className="text-gray-600 text-justify">
+            {/* <p className="text-gray-600 text-justify">
             I'm a dedicated frontend developer skilled in building modern, responsive, and user-friendly web applications. I enjoy transforming complex challenges into seamless, engaging, and impactful digital experiences.
+            </p> */}
+            <p className="text-gray-600" style={{ textAlign: 'justify' }}>
+              I'm a dedicated frontend developer skilled in building modern, responsive, and user-friendly web applications. I enjoy transforming complex challenges into seamless, engaging, and impactful digital experiences.
             </p>
+
           </div>
         </div>
       </div>
